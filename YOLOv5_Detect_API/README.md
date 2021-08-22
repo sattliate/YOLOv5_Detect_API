@@ -12,5 +12,5 @@ so that it can be easily embedded in other projects
 - > pip install -r requirements.txt
 - 2、Obtain a weight file: .pt weight file trained by yourself，or get from https://github.com/ultralytics/yolov5/release , to put the file :weights
 - 3、Run main.py, modify and apply to your own project according to your needs
-# REFERENCES 
+# References
 - 1:https://github.com/xgyyao/YoloDeploy/tree/main/yolov5/pytorch
