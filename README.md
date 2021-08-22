@@ -1,1 +1,0 @@
-# YOLOv5_Detect_API
